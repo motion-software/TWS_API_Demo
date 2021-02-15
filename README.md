@@ -1,7 +1,7 @@
 ## **Interactive Brokers TWS API C# Demo**
 
-[![Interactive brokers](https://cdn-bcjke.nitrocdn.com/yEGRsiBSBipycatBPeVAELShNMzygxqx/assets/static/optimized/wp-content/uploads/2020/10/0bc34932d7c155c1efe7d2e1e62550db.interactive-brokers-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80-1-1.jpg | width=100)
-[![Traders academy online](https://tradersacademy.online/wp-content/themes/traders-academy/images/ibkr-traders-academy-logo-wht-text.svg =250x100)
+![Interactive brokers](https://cdn-bcjke.nitrocdn.com/yEGRsiBSBipycatBPeVAELShNMzygxqx/assets/static/optimized/wp-content/uploads/2020/10/0bc34932d7c155c1efe7d2e1e62550db.interactive-brokers-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80-1-1.jpg)
+![Traders academy online](https://tradersacademy.online/wp-content/themes/traders-academy/images/ibkr-traders-academy-logo-wht-text.svg)
 
 This article will go over how to get a basic implementation of the Interactive Brokers TWS API to retrieve stock and option prices.
 
